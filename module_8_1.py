@@ -28,7 +28,7 @@ print(add_everything_up(3.17, '45'))
 
 
 
-add_everything_up(3.17, '45')
+
 
 
 
